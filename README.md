@@ -62,5 +62,6 @@ The options can be scored from 1 to 7, with 1 being not at all and 7 being very 
 4. How depressed did you feel during the thought process?
 5. How often do these thoughts occur to you?
 
-
+Results:
+The study findings indicated that 30% of the study participants exhibited prominent delta wave patterns, possibly associated with deep contemplation, while the remaining 70% showed dominant alpha waves, suggesting an engaged mental state. Unlocking a richer and more diverse dataset, coupled with advanced signal processing techniques, has the potential to unveil a wealth of valuable insights!
 
